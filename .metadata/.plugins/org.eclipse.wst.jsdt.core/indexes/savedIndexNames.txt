@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\natanal\Desktop\javaEE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+466353991.index
+3345624471.index
+1448340487.index
+3354216972.index
+2054902903.index
+3344708911.index
+2644689925.index
